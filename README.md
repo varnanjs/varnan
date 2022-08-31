@@ -1,1 +1,1 @@
-# varnan
+# Varnan.JS
